@@ -1,0 +1,24 @@
+.header{
+    background-image: url(https://www.forestryengland.uk/sites/default/files/styles/forest_slide_wide_wide/public/media/1049934.012.jpg?h=2aed26ad&itok=nrqUJvqD);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.colorbt{
+    background-color: #05655e;
+}
+
+.bg-nav-custom{
+    background-color: rgba(0, 0, 0, 0.300);
+}
+
+.titulo1{
+font-size: 950;
+font-weight:600; 
+letter-spacing: 0!important;
+-webkit-text-size-adjust: 100%;
+}
+
+.header h1, .header p {
+    text-shadow: 1px 1px 5px black;
+}
