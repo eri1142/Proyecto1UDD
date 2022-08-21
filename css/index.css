@@ -27,15 +27,6 @@ letter-spacing: 0!important;
     text-shadow: 0 0 0 700;
     }
 
-.main1{
-    background-color: #05655e;
-    justify-content: center;
-}
-
-.servicios{
-    color: white;;
-}
-
 .main2{
     background-color: #05655e;
     justify-content: center;
@@ -76,7 +67,7 @@ letter-spacing: 0!important;
 
 .footer{
     background-color: #ccc;
-    padding: 50px 100px;
+    height: 100%;
     justify-content: center;
 }
 
@@ -85,6 +76,7 @@ letter-spacing: 0!important;
 }
 
 .caja{
+    background-color: #ccc;
     width: 300px;
     height: 100px;
 }
