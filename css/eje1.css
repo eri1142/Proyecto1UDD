@@ -1,0 +1,18 @@
+.main{
+    background-color: #ccc;
+    padding: 50px 100px;
+}
+
+.cajablog{
+    width: 30%;
+    height: 650px;
+    margin: 20px;
+    padding: 13px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px black;
+}
+
+.padreblog{
+    display: flex;
+    flex-direction: column;
+}
