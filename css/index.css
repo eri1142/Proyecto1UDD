@@ -19,18 +19,40 @@ letter-spacing: 0!important;
 -webkit-text-size-adjust: 100%;
 }
 
-.main{
-    background-color: #ccc;
-    padding: 50px 100px;
+.titulo2{
+    font-weight:600; 
+    color: white;
+    letter-spacing: 0!important;
+    -webkit-text-size-adjust: 100%;
+    text-shadow: 0 0 0 700;
+    }
+
+.main1{
+    background-color: #05655e;
+    justify-content: center;
+}
+
+.servicios{
+    color: white;;
+}
+
+.main2{
+    background-color: #05655e;
+    justify-content: center;
 }
 
 .cajablog{
+    background-color: white;
     width: 300px;
-    height: 500px;
+    height: 550px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px black;
+    padding: 10px;
+    margin: 10px;
 }
 
 .comenzar{
-    background-color: black;
+    background-color: #252929;
     color: white;
     font-size: large;
     text-transform: uppercase;
@@ -49,8 +71,20 @@ letter-spacing: 0!important;
 
 .letrapequeña{
     font-size: small;
+
+}
+
+.footer{
+    background-color: #ccc;
+    padding: 50px 100px;
+    justify-content: center;
 }
 
 .subtitulo1{
     color: blue;
+}
+
+.caja{
+    width: 300px;
+    height: 100px;
 }
